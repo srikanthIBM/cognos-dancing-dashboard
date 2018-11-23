@@ -1,5 +1,5 @@
 
-# cognos-dancing-dashboard
+# cognos-dancing-dashboard-for-devices-in-manufacturing-units
 
 In this Code Pattern, we will build a Cognos add-on to consume highly volatile streaming data, a dancing dashboard. 
 The real time Dashboard will be able to display mix of data (volatile and non-volatile) data can be shown on a single dashboard. Volatile data is extracted from external websites and in other words we are trying to build a Cognos add-on to consume streaming(Highly volatile )data like stock ticker or data from SCADA or IOT platform broadcast data. 
