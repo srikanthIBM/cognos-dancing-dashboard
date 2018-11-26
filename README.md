@@ -1,17 +1,17 @@
 
-# Cognos Dashboard for Live-Streaming of the Devices in Manufacturing Unit.
+# Cognos Dashboard for Live-Streaming of the Devices data in Manufacturing Unit.
 
 In this Code Pattern, we will build a Cognos add-on to consume highly volatile streaming data, a dancing dashboard. 
-The real time Dashboard will be able to display mix of data (volatile and non-volatile) data can be shown on a single dashboard. Volatile data is extracted from external websites and in other words we are trying to build a Cognos add-on to consume streaming(Highly volatile )data like stock ticker or data from SCADA or IOT platform broadcast data. 
+The real time Dashboard will be able to display mix of data (volatile and non-volatile) can be shown on a single dashboard. Volatile data is extracted from external websites and in other words we are trying to build a Cognos add-on to consume streaming(Highly volatile )data like stock ticker or data from SCADA or IOT platform broadcast data. 
 The idea is to build a dancing chart that captures volatile data and incrementally updates itself.
 
 
 When the reader has completed this Code Pattern, they will understand how to:
 
 * [Build Cognos Custom Widgets]
-* [Integrate ]
-* [goal 3]
-* [goal 4]
+* [Integrate Java Script built Extension within Cognos Dashboard]
+* [Display mix of Historical and Live Streaming IoT data in Cognos Dashboard]
+* [Interact with widgets within the same Cognos Dashboard]
 
 <!--add an image in this path-->
 ![](doc/source/images/architecture.png)
