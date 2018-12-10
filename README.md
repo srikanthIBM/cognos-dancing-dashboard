@@ -33,13 +33,23 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 [![](http://img.youtube.com/vi/Jxi7U7VOMYg/0.jpg)](https://www.youtube.com/watch?v=Jxi7U7VOMYg)
 
+## Pre-requisites
+
+* Cognos server - Have on-prim or SaaS offering of Cognos with `admin access`.
+   > Note: Cognos version should be over 11.0.05.
+   
+
 # Steps
 
-Use the ``Deploy to IBM Cloud`` button **OR** create the services and run locally.
+## Deploy to Cognos BI server
 
-<!--Optionally, add a deploy to ibm cloud button-->
+### 1. Create Custom Widget using Javascript.
 
-## Deploy to IBM Cloud
+
+In this repository, custom widget code is available at `./custom-widget-code`. Update the URL in `code.js ` file as shown and save the file.
+
+
+1. 
 
 <!--Update the repo and tracking id-->
 [![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM/watson-banking-chatbot.git)
