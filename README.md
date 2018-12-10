@@ -46,7 +46,9 @@ When the reader has completed this Code Pattern, they will understand how to:
 ### 1. Create Custom Widget using Javascript.
 
 
-In this repository, custom widget code is available at `./custom-widget-code`. Update the URL in `code.js ` file as shown and save the file.
+In this repository, custom widget code is available at `./custom-widget-code`. Dowload the `CognosCustomWidget.zip` to your machine.
+
+
 
 
 1. 
