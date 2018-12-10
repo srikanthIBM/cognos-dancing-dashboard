@@ -8,10 +8,10 @@ The idea is to build a dancing chart that captures volatile data and incremental
 
 When the reader has completed this Code Pattern, they will understand how to:
 
-* [Build Cognos Custom Widgets]
-* [Integrate Java Script built Extension within Cognos Dashboard]
-* [Display mix of Historical and Live Streaming IoT data in Cognos Dashboard]
-* [Interact with widgets within the same Cognos Dashboard]
+* Build Cognos Custom Widgets
+* Integrate Java Script built Extension within Cognos Dashboard
+* Display mix of Historical and Live Streaming IoT data in Cognos Dashboard
+* Interact with widgets within the same Cognos Dashboard
 
 <!--add an image in this path-->
 ![](doc/source/images/architecture.png)
