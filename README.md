@@ -19,6 +19,8 @@ When the reader has completed this Code Pattern, they will understand how to:
 <!--Optionally, add flow steps based on the architecture diagram-->
 ## Flow
 
+![CDB_Cognos](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/DD_Flow.jpg)
+
 1. Step 1.
 2. Step 2.
 3. Step 3.
