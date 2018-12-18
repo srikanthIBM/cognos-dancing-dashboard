@@ -21,11 +21,11 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 ![CDB_Cognos](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/DD_Flow.jpg)
 
-1. Develop a java script file to build Cognos Custom Widgets.
-2. Zip the java script file.
-3. Upload the zipped files into Cognos using Cognos Extensions
-4. Drag and drop the newly created custom widget into Cognos Dashboard pane.
-5. Adjust the size(height and width) of the dashboard as per your need.
+1. Develop a code(includes Spec.json, js, css, Images) to build Cognos Custom Widget(Extensions)
+2. Bundle the code as zip file.
+3. Upload the zipped files into Cognos using Extensions.
+4. Use the custom widget into Cognos Dashboard.
+
 
 
 <!--Optionally, update this section when the video is created-->
