@@ -23,7 +23,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 1. Develop a code(includes Spec.json, js, css, Images) to build Cognos Custom Widget(Extensions)
 2. Bundle the code as zip file.
-3. Upload the zipped files into Cognos using Extensions.
+3. Upload the zipped file into Cognos using Extensions.
 4. Use the custom widget into Cognos Dashboard.
 
 
