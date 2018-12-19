@@ -43,7 +43,8 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 - In this repository, custom widget code is available at `./custom-widget-code`. Dowload the `CognosCustomWidget.zip` to your machine.
 
-[Img]
+![Download_Code](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/download_code.jpg)
+
 
 ## 2. Upload the code to Cognos BI server.
 
