@@ -41,7 +41,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 ## 1. Download the code from the github
 
-- In this repository, custom widget code is available at `./custom-widget-code`. ![Dowload the `CognosCustomWidget.zip` to your machine](https://github.com/srikanthIBM/cognos-dancing-dashboard/tree/master/custom-widget-code/CognosCustomWidget.zip)
+- In this repository, custom widget code is available at `./custom-widget-code`. [Dowload the `CognosCustomWidget.zip` to your machine](https://github.com/srikanthIBM/cognos-dancing-dashboard/tree/master/custom-widget-code/CognosCustomWidget.zip)
 
 
 ![Download_Code_Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/download_code.jpg)
