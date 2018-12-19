@@ -54,7 +54,7 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
  
 ![LaunchCognos](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/LaunchCognos.jpg)
 
-- Upload the file to Cognos BI server using the customization option. See below screenshot for details.
+- Under Cognos BI web browser, go to the customization option. See below screenshot for details.
 
 ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/upload_BI.jpg)
 
