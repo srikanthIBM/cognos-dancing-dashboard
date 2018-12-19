@@ -47,7 +47,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 ![Download_Code_Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/download_code.jpg)
 
 
-## 2. Upload the code to Cognos BI server.
+## 2. Upload the code to Cognos BI server
 
 - Launch Cognos BI server from the browser(Firefox is preferred). Use the url as per your Cognos Instance. 
 Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
@@ -62,7 +62,27 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 
 ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/upload_BI1.jpg)
 
-- Create a Dashboard to consume the Custom Widget: 
+- You will see a successful upload message.
+
+## 3. Create a Dashboard to consume the Custom Widget
+
+- Open New Dashboard.
+
+![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/db1.jpg)
+
+- Select the blank template.
+
+![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/db2.jpg)
+
+- Click on the Newly created Custom Widget Icon.
+
+![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/cw1.jpg)
+
+
+- Drag and drop the Custom Widget to the Dashboard pane. See below screenshot for details.
+
+
+![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/cw2.jpg)
 
 
 
