@@ -51,10 +51,16 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 - Launch Cognos BI server from the browser(Firefox is preferred). Use the url as per your Cognos Instance. 
 Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
- [LaunchCognos.jpg]
+ 
+![LaunchCognos](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/LaunchCognos.jpg)
 
-- Upload the file to Cognos BI server: See below screenshot for details.
-[Img]
+- Upload the file to Cognos BI server using the customization option. See below screenshot for details.
+
+![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/upload_BI.jpg)
+
+-  Under Customization, use the Extension tab and upload the `CognosCustomWidget.zip` file. See below screenshot for details.
+
+![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/upload_BI1.jpg)
 
 - Create a Dashboard to consume the Custom Widget: 
 
