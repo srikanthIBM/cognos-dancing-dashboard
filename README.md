@@ -13,19 +13,15 @@ When the reader has completed this Code Pattern, they will understand how to:
 * Display mix of Historical and Live Streaming IoT data in Cognos Dashboard
 * Interact with widgets within the same Cognos Dashboard
 
-<!--add an image in this path-->
-![](doc/source/images/architecture.png)
-
-<!--Optionally, add flow steps based on the architecture diagram-->
 ## Flow
 
 ![CDB_Cognos](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/DD_Flow.jpg)
 
-1. Develop a code(includes Spec.json, js, css, Images) to build Cognos Custom Widget(Extensions)
-2. Bundle the code as zip file.
-3. Upload the zipped file into Cognos using Extensions.
+1. Develop the code(includes Spec.json, js, css, Images) to build Cognos Custom Widget(Extensions)
+2. Bundle the code as a zip file.
+3. Upload the zipped files into Cognos using Extensions.
 4. Use the custom widget into Cognos Dashboard.
-
+ 
 
 
 <!--Optionally, update this section when the video is created-->
