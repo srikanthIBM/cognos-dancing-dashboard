@@ -5,6 +5,8 @@ In this Code Pattern, we will build a Cognos add-on to consume highly volatile s
 The real time Dashboard will be able to display mix of data (volatile and non-volatile) can be shown on a single dashboard. Volatile data is extracted from external websites and in other words we are trying to build a Cognos add-on to consume streaming(Highly volatile )data like stock ticker or data from SCADA or IOT platform broadcast data. 
 The idea is to build a dancing chart that captures volatile data and incrementally updates itself.
 
+With the latest feature of Cognos 11.x Extensions, you now have the ability to add and remove elements in the IBM Cognos Analytics user interface for a perspective. An extension is a zip file that contains spec.json and optional images and js folders.
+
 
 When the reader has completed this Code Pattern, they will understand how to:
 
@@ -17,7 +19,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 ![CDB_Cognos](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/DD_Flow.jpg)
 
-1. Develop the code(includes Spec.json, js, css, Images) to build Cognos Custom Widget(Extensions)
+1. Develop the code(includes spec.json, js, css, Images) to build Cognos Custom Widget(Extensions)
 2. Bundle the code as a zip file.
 3. Upload the zipped files into Cognos using Extensions.
 4. Use the custom widget into Cognos Dashboard.
@@ -37,12 +39,22 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 # Steps
 
-## Deploy to Cognos BI server
+## 1. Download the code from the github
 
-### 1. Create Custom Widget using Javascript.
+- In this repository, custom widget code is available at `./custom-widget-code`. Dowload the `CognosCustomWidget.zip` to your machine.
 
+[Img]
 
-In this repository, custom widget code is available at `./custom-widget-code`. Dowload the `CognosCustomWidget.zip` to your machine.
+## 2. Upload the code to Cognos BI server.
+
+- Launch Cognos BI server from the browser(Firefox is preferred). Use the url as per your Cognos Instance. 
+Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
+ [LaunchCognos.jpg]
+
+- Upload the file to Cognos BI server: See below screenshot for details.
+[Img]
+
+- Create a Dashboard to consume the Custom Widget: 
 
 
 
