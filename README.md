@@ -92,7 +92,7 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 
 ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Adjust_Size.jpg)
 
-- Save the report as 'Live Streaming of Device'
+- Save the report as 'Live Streaming of Device' under My Folder of Cognos Connection.
 
 ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Save_Dashboard.jpg)
 
