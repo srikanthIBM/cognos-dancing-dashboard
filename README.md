@@ -41,6 +41,8 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 1. [Download the code from the github](#1-download-the-code-from-the-github)
 2. [Upload the code to Cognos BI server](#2-upload-the-code-to-cognos-bi-server)
+3. [Create a Dashboard to consume the Custom Widget](#3-create-a-dashboard-to-consume-the-custom-widget)
+
 
 ## 1. Download the code from the github
 
