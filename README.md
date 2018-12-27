@@ -42,6 +42,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 1. [Download the code from the github](#1-download-the-code-from-the-github)
 2. [Upload the code to Cognos BI server](#2-upload-the-code-to-cognos-bi-server)
 3. [Create a Dashboard to consume the Custom Widget](#3-create-a-dashboard-to-consume-the-custom-widget)
+4. [Run and Analyze the Dashboard](#4-run-and-analyze-the-dashboard)
 
 
 ## 1. Download the code from the github
@@ -83,13 +84,16 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 
 ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/cw1.jpg)
 
-
 - Drag and drop the Custom Widget to the Dashboard pane. See below screenshot for details.
-
 
 ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/cw2.jpg)
 
+- Adjust the dragged Custom widget to fit to the required pane of the dashboard.
 
+![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Adjust_Size.jpg)
+
+
+## 4. Run and Analyze the Dashboard
 
 
 1. 
