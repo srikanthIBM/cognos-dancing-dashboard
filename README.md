@@ -40,6 +40,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 # Steps
 
 1. [Download the code from the github](#1-download-the-code-from-the-github)
+2. [Upload the code to Cognos BI server](#2-upload-the-code-to-cognos-bi-server)
 
 ## 1. Download the code from the github
 
