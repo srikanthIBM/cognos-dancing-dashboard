@@ -115,7 +115,7 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 
 # Sample output
 
-![](doc/source/images/sample_output.png)
+![](doc/source/images/Sample_Output.png)
 
 <!--Optionally, include any troubleshooting tips (driver issues, etc)-->
 
