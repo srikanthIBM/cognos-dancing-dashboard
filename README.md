@@ -103,19 +103,9 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 
 
 
-
-### 6. Run the application
-
-1. Install [Node.js](https://nodejs.org/en/) runtime or NPM.
-1. Start the app by running `npm install`, followed by `npm start`.
-1. Use the chatbot at `localhost:3000`.
-> Note: server host can be changed as required in server.js and `PORT` can be set in `.env`.
-
-<!--Add a section that explains to the reader what typical output looks like, include screenshots -->
-
 # Sample output
 
-![](doc/source/images/Sample_Output.png)
+![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images//Sample_Output.png)
 
 <!--Optionally, include any troubleshooting tips (driver issues, etc)-->
 
