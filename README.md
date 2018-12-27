@@ -88,12 +88,18 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 
 ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/cw2.jpg)
 
-- Adjust the dragged Custom widget to fit to the required pane of the dashboard.
+- Adjust the dragged Custom widget to fit to the required height and width within the dashboard.
 
 ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Adjust_Size.jpg)
 
+- Save the report as 'Live Streaming of Device'
+
+[Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Save_Dashboard.jpg)
+
 
 ## 4. Run and Analyze the Dashboard
+
+- 
 
 
 1. 
