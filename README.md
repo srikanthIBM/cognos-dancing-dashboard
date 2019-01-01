@@ -110,6 +110,17 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 - You will see the dashboard with a list content which has 'DeviceA' last 24 hours data(Pressure, Temperature and Vibration)
 
  ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Dashboard1.jpg)
+ 
+- Click on any attribute (Pressure/Temperature/Vibration) column for live streaming. A pop up will appear to confirm the pressure live chart is going to be displayed. 
+ 
+ ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Popup.jpg)
+ 
+-  See the below Live streaming of the line chart for pressure. 
+
+ ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Pressure.jpg)
+ 
+- Similarly to the  
+ 
 
 # Sample output
 
