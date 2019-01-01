@@ -137,12 +137,14 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 
 # Troubleshooting
 
-* Error: Environment {GUID} is still not active, retry once status is active
+* Error: Invalid File Name. (This error occurs while you are trying to upload the Custom widget Extension under customization)
 
-  > This is common during the first run. The app tries to start before the Discovery
-environment is fully created. Allow a minute or two to pass. The environment should
-be usable on restart. If you used `Deploy to IBM Cloud` the restart should be automatic.
+ ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/error1.png)
 
+  > This is common error if the fiels are not bundled appropriately.
+  
+  
+  
 * Error: Only one free environent is allowed per organization
 
   > To work with a free trial, a small free Discovery environment is created. If you already have
