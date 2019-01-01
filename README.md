@@ -42,7 +42,8 @@ When the reader has completed this Code Pattern, they will understand how to:
 1. [Download the code from the github](#1-download-the-code-from-the-github)
 2. [Upload the code to Cognos BI server](#2-upload-the-code-to-cognos-bi-server)
 3. [Create a Dashboard to consume the Custom Widget](#3-create-a-dashboard-to-consume-the-custom-widget)
-4. [Run and Analyze the Dashboard](#4-run-and-analyze-the-dashboard)
+4. [Run the Dashboard](#4-run-the-dashboard)
+5. [Analyze the Dashboard](#5-analyze-the-dashboard)
 
 
 ## 1. Download the code from the github
@@ -101,7 +102,7 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Save_Dashboard.jpg)
 
 
-## 4. Run and Analyze the Dashboard
+## 4. Run the Dashboard
 
 - Run the 'Live Streaming of Device' dashboard from the saved location.
  
@@ -123,6 +124,9 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 
  ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Temperature.jpg)
  
+ ## 5. Analyze the Dashboard
+ 
+ The dashboard displays both volatile and non-volatile data. Meaning, the static data is being read from the backend database and the real-time data is being read from the IoT device data through REST API's. Here we are generating the live data using the Random function in 
  
 
 # Sample output
