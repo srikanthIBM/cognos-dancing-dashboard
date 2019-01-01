@@ -106,9 +106,10 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 - Run the 'Live Streaming of Device' dashboard from the saved location.
  
  ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/RunDashboard.jpg)
- 
 
+- You will see the dashboard with a list content which has 'DeviceA' last 24 hours data(Pressure, Temperature and Vibration)
 
+ ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Dashboard1.jpg)
 
 # Sample output
 
