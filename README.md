@@ -96,14 +96,16 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 
 ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Adjust_Size1.jpg)
 
-- Save the report as 'Live Streaming of Device' under My Folder of Cognos Connection.
+- Save the dashboard as 'Live Streaming of Device' under My Folder of Cognos Connection.
 
 ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Save_Dashboard.jpg)
 
 
 ## 4. Run and Analyze the Dashboard
 
-- 
+- Run the 'Live Streaming of Device' dashboard from the saved location.
+ 
+ 
 
 
 
