@@ -126,7 +126,7 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
  
  ## 5. Analyze the Dashboard
  
- The dashboard displays both volatile and non-volatile data. Meaning, the static data is being read from the backend database and the real-time data is being read from the IoT device data through REST API's. Here we are generating the live data using the Random function in 
+ The dashboard displays both volatile and non-volatile data. Meaning, the static data is being read from the backend database and the real-time data is being read from the IoT device data through REST API's. Here we are generating the live data using the Random function. This dashboard primarily useful for automobile manufacturing unit plant engineer who would want to monitor the devices at real-time. For example, if any of these metrics(Pressure/Temperatur/Vibration) go beyound thethreshold points then the plant would take a call to bring devices for maintenance. 
  
 
 # Sample output
