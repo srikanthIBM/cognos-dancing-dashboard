@@ -119,7 +119,10 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 
  ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Pressure.jpg)
  
-- Similarly to the  
+- Similarly we can click on other metrics like Temperature and Vibration to see the live streaming of the data in the line chart.
+
+ ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Temperature.jpg)
+ 
  
 
 # Sample output
