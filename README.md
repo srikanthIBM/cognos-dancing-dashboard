@@ -105,6 +105,7 @@ Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
 
 - Run the 'Live Streaming of Device' dashboard from the saved location.
  
+ ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/RunDashboard.jpg)
  
 
 
