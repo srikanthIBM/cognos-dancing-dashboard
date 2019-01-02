@@ -53,11 +53,12 @@ When the reader has completed this Code Pattern, they will understand how to:
    git clone https://github.com/srikanthIBM/cognos-dancing-dashboard.git
    ```
    
+ - In this repository, custom widget code is available at `./custom-widget-code`. Dowload the `CognosCustomWidget.zip` to your machine.
+ 
  -  The contents of zip file are as follows and we are providing as zip file(or bundled) to upload to Cognos as Custom widgets.
  
- ![Download_Code_Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/code1.jpg)
+ ![Download_Code_Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/code.jpg)
  
-- In this repository, custom widget code is available at `./custom-widget-code`. Dowload the `CognosCustomWidget.zip` to your machine.
 
 
 ## 2. Upload the code to Cognos BI server
