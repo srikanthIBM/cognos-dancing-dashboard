@@ -55,7 +55,7 @@ When the reader has completed this Code Pattern, they will understand how to:
    
  -  The contents of zip file are as follows and we are providing as zip file(or bundled) to upload to Cognos as Custom widgets.
  
- ![Download_Code_Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/download_code.jpg)
+ ![Download_Code_Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/code.jpg)
  
 - In this repository, custom widget code is available at `./custom-widget-code`. Dowload the `CognosCustomWidget.zip` to your machine.
 
