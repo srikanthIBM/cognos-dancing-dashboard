@@ -64,8 +64,12 @@ When the reader has completed this Code Pattern, they will understand how to:
 ## 2. Upload the code to Cognos BI server
 
 - Launch Cognos BI server from the browser(Firefox is preferred). Use the url as per your Cognos Instance. 
-Sample URL as follows: http://IP(or)localhost:9310/bi/?perspective=home
- 
+
+Sample URL as follows: 
+```
+http://IP(or)localhost:9310/bi/?perspective=home
+```
+
 ![LaunchCognos](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/LaunchCognos.jpg)
 
 - Under Cognos BI web browser, go to the customization option. See below screenshot for details.
