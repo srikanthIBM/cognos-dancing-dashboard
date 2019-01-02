@@ -48,7 +48,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 ## 1. Get the code
 
- - Clone the repo.
+ - Clone the repo using the below command.
    ```
    git clone https://github.com/srikanthIBM/cognos-dancing-dashboard.git
    ```
