@@ -17,7 +17,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 ## Flow
 
-![CDB_Cognos](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/DD_Flow.jpg)
+![CDB_Cognos](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/DD_Flow.jpg)
 
 1. Develop the code(includes spec.json, js, css, Images) to build Cognos Custom Widget(Extensions)
 2. Bundle the code as a zip file.
@@ -50,14 +50,14 @@ When the reader has completed this Code Pattern, they will understand how to:
 
  - Clone the repo using the below command.
    ```
-   git clone https://github.com/srikanthIBM/cognos-dancing-dashboard.git
+   git clone https://github.com/IBM/cognos-dancing-dashboard.git
    ```
    
  - In this repository, custom widget code is available at `./custom-widget-code`. Dowload the `CognosCustomWidget.zip` to your machine.
  
  -  The contents of zip file are as follows and we are providing as zip file(or bundled) to upload to Cognos as Custom widgets.
  
- ![Download_Code_Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/code.jpg)
+ ![Download_Code_Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/code.jpg)
  
 
 
@@ -70,15 +70,15 @@ Sample URL as follows:
 http://IP(or)localhost:port_number/bi/?perspective=home
 ```
 
-![LaunchCognos](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/LaunchCognos.jpg)
+![LaunchCognos](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/LaunchCognos.jpg)
 
 - Under Cognos BI web browser, go to the customization option. See below screenshot for details.
 
-![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/upload_BI.jpg)
+![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/upload_BI.jpg)
 
 -  Under Customization, use the Extension tab and upload the `CognosCustomWidget.zip` file. See below screenshot for details.
 
-![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/upload_BI1.jpg)
+![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/upload_BI1.jpg)
 
 - You will see a successful upload message.
 
@@ -86,54 +86,54 @@ http://IP(or)localhost:port_number/bi/?perspective=home
 
 - Open New Dashboard.
 
-![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/db1.jpg)
+![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/db1.jpg)
 
 - Select the blank template.
 
-![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/db2.jpg)
+![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/db2.jpg)
 
 - Click on the Newly created Custom Widget Icon.
 
-![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/cw1.jpg)
+![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/cw1.jpg)
 
 - Drag and drop the Custom Widget to the Dashboard pane. See below screenshot for details.
 
-![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/cw2.jpg)
+![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/cw2.jpg)
 
 - Adjust the dragged Custom widget to fit to the required height and width within the dashboard.
 
-![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Adjust_Size.jpg)
+![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/Adjust_Size.jpg)
 
 - After adjusting the custom widet would look like below.
 
-![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Adjust_Size1.jpg)
+![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/Adjust_Size1.jpg)
 
 - Save the dashboard as 'Live Streaming of Device' under My Folder of Cognos Connection.
 
-![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Save_Dashboard.jpg)
+![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/Save_Dashboard.jpg)
 
 
 ## 4. Run the Dashboard
 
 - Run the 'Live Streaming of Device' dashboard from the saved location.
  
- ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/RunDashboard.jpg)
+ ![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/RunDashboard.jpg)
 
 - You will see the dashboard with a list content which has 'DeviceA' last 24 hours data(Pressure, Temperature and Vibration)
 
- ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Dashboard1.jpg)
+ ![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/Dashboard1.jpg)
  
 - Click on any attribute (Pressure/Temperature/Vibration) column for live streaming. A pop up will appear to confirm the pressure live chart is going to be displayed. 
  
- ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Popup.jpg)
+ ![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/Popup.jpg)
  
 -  See the below Live streaming of the line chart for pressure. 
 
- ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Pressure.jpg)
+ ![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/Pressure.jpg)
  
 - Similarly we can click on other metrics like Temperature and Vibration to see the live streaming of the data in the line chart.
 
- ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/Temperature.jpg)
+ ![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/Temperature.jpg)
  
  ## 5. Analyze the Dashboard
  
@@ -142,7 +142,7 @@ http://IP(or)localhost:port_number/bi/?perspective=home
 
 # Sample output
 
-![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images//Sample_Output.png)
+![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images//Sample_Output.png)
 
 <!--Optionally, include any troubleshooting tips (driver issues, etc)-->
 
@@ -150,7 +150,7 @@ http://IP(or)localhost:port_number/bi/?perspective=home
 
 * Error: Invalid File Name. (This error occurs while you are trying to upload the Custom widget Extension under customization)
 
- ![Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/error1.png)
+ ![Img](https://github.com/IBM/cognos-dancing-dashboard/blob/master/images/error1.png)
 
   > This is common error if the files are not bundled appropriately.
   
