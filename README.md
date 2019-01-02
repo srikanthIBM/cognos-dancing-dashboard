@@ -39,23 +39,25 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 # Steps
 
-1. [Download the code from the github](#1-download-the-code-from-the-github)
+1. [Get the code](#1-get-the-code)
 2. [Upload the code to Cognos BI server](#2-upload-the-code-to-cognos-bi-server)
 3. [Create a Dashboard to consume the Custom Widget](#3-create-a-dashboard-to-consume-the-custom-widget)
 4. [Run the Dashboard](#4-run-the-dashboard)
 5. [Analyze the Dashboard](#5-analyze-the-dashboard)
 
 
-## 1. Download the code from the github
+## 1. Get the code
 
  - Clone the repo.
    ```
-   git clone https://github.com/IBM/invoke-wml-using-cognos-custom-control.git
+   git clone https://github.com/srikanthIBM/cognos-dancing-dashboard.git
    ```
-- In this repository, custom widget code is available at `./custom-widget-code`. [Dowload the `CognosCustomWidget.zip` to your machine](https://github.com/srikanthIBM/cognos-dancing-dashboard/tree/master/custom-widget-code/CognosCustomWidget.zip)
-
-
-![Download_Code_Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/download_code.jpg)
+   
+ -  The contents of zip file are as follows and we are providing as zip file(or bundled) to upload to Cognos as Custom widgets.
+ 
+ ![Download_Code_Img](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/download_code.jpg)
+ 
+- In this repository, custom widget code is available at `./custom-widget-code`. Dowload the `CognosCustomWidget.zip` to your machine.
 
 
 ## 2. Upload the code to Cognos BI server
