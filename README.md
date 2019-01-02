@@ -1,5 +1,5 @@
 
-# Cognos Dashboard for Live-Streaming of the Devices data in a Automobile Manufacturing Unit.
+# Live streaming of Automotive devices data using Custom Widgets within Cognos dashboard
 
 In this Code Pattern, we will build a Cognos add-on to consume highly volatile streaming data, a dancing dashboard. 
 The real time Dashboard will be able to display mix of data (volatile and non-volatile) can be shown on a single dashboard. Volatile data is extracted from external websites and in other words we are trying to build a Cognos add-on to consume streaming(Highly volatile )data like stock ticker or data from SCADA or IOT platform broadcast data. 
@@ -48,6 +48,10 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 ## 1. Download the code from the github
 
+ - Clone the repo.
+   ```
+   git clone https://github.com/IBM/invoke-wml-using-cognos-custom-control.git
+   ```
 - In this repository, custom widget code is available at `./custom-widget-code`. [Dowload the `CognosCustomWidget.zip` to your machine](https://github.com/srikanthIBM/cognos-dancing-dashboard/tree/master/custom-widget-code/CognosCustomWidget.zip)
 
 
