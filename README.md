@@ -67,7 +67,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 
 Sample URL as follows: 
 ```
-http://IP(or)localhost:9310/bi/?perspective=home
+http://IP(or)localhost:port_number/bi/?perspective=home
 ```
 
 ![LaunchCognos](https://github.com/srikanthIBM/cognos-dancing-dashboard/blob/master/images/LaunchCognos.jpg)
